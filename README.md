@@ -2,5 +2,4 @@
 (Under development)
 
 
-Kalman filter implementation
-EKF and SR UKF implementation
+Kalman filter, EKF and SR UKF implementation
